@@ -1,9 +1,4 @@
-<h1 align="center">Hi, I'm Khaled 👋</h1>
-
-<p align="center">
-  Student building things that fly, fight and compute 🚀⚔️<br>
-  Rockets · Games · Algorithms
-</p>
+<h3 align="center">📈 Coding profiles stats 👋</h3>
 
 <p align="center">
 <p align="center">
@@ -17,10 +12,6 @@
   <img src="https://skillicons.dev/icons?i=arch,linux,arduino,bash,c,cpp,github,godot,lua,nix,neovim,qt,py,cmake&perline=7" alt="Tools" />
 </p>
 
-<h3 align="center">🚀 Featured</h3>
-<p align="center">
-  ⚔️ <a href="https://github.com/khloozaa/DUSK-BOUND"><b>DUSKBOUND</b></a>: browser survival brawler made at Haven Cairo
-</p>
 
 <h3 align="center">📫 Connect</h3>
 <p align="center">
