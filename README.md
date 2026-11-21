@@ -1,26 +1,30 @@
-<h1 align="center">Hi, I'm Khaled</h1>
+<h1 align="center">Hi, I'm Khaled 👋</h1>
 
 <p align="center">
-  <img src="YOUR_CODEFORCES_CARD_URL" height="230" />
-  <img src="YOUR_LEETCODE_CARD_URL" height="230" />
+  Student building things that fly, fight and compute 🚀⚔️<br>
+  Rockets · Games · Algorithms
+</p>
+
+<p align="center">
+  <a href="https://codeforces.com/profile/Khaled_El-shorbagy"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=Khaled_El-shorbagy&theme=dark&hide_border=true" width="380" alt="Codeforces stats" /></a>
+  <a href="https://leetcode.com/u/khloozaa/"><img src="https://leetcard.jacoblin.cool/khloozaa?theme=dark&border=0" width="380" alt="LeetCode stats" /></a>
 </p>
 
 <h3 align="center">🛠️ Tools I use</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arch,linux,arduino,bash,c,cpp,github,godot,lua,nix,neovim,qt,py,cmake&perline=7" />
+  <img src="https://skillicons.dev/icons?i=arch,linux,arduino,bash,c,cpp,github,godot,lua,nix,neovim,qt,py,cmake&perline=7" alt="Tools" />
+</p>
+
+<h3 align="center">🚀 Featured</h3>
+<p align="center">
+  ⚔️ <a href="https://github.com/khloozaa/DUSK-BOUND"><b>DUSKBOUND</b></a>: browser survival brawler made at Haven Cairo
 </p>
 
 <h3 align="center">📫 Connect</h3>
 <p align="center">
-  [![Chess.com](https://img.shields.io/badge/Chess.com-81B64C?style=for-the-badge&logo=chessdotcom&logoColor=white)](https://www.chess.com/member/khloozaa2)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khloozaa)
-  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@YOUR_CHANNEL)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/khloozaa)
-  [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/khloozaa)
-  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/khloozaa)
-  [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/khloozaa)
-  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kajjorbagy@gmail.com)
+  <a href="https://www.chess.com/member/khloozaa2"><img src="https://img.shields.io/badge/Chess.com-81B64C?style=flat-square&logo=chessdotcom&logoColor=white" alt="Chess.com" /></a>
+  <a href="https://instagram.com/khloozaa"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://x.com/khloozaa"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://t.me/khloozaa"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="mailto:kajjorbagy@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-
-
-
