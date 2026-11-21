@@ -6,8 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="https://codeforces.com/profile/Khaled_El-shorbagy"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=Khaled_El-shorbagy&theme=dark&hide_border=true" width="380" alt="Codeforces stats" /></a>
-  <a href="https://leetcode.com/u/khloozaa/"><img src="https://leetcard.jacoblin.cool/khloozaa?theme=dark&border=0" width="380" alt="LeetCode stats" /></a>
+<p align="center">
+  <a href="https://codeforces.com/profile/Khaled_El-shorbagy"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=Khaled_El-shorbagy&theme=dark&hide_border=true" height="200" alt="Codeforces stats" /></a>
+  <a href="https://leetcode.com/u/khloozaa/"><img src="https://leetcard.jacoblin.cool/khloozaa?theme=dark&border=0" height="200" alt="LeetCode stats" /></a>
+</p>
 </p>
 
 <h3 align="center">🛠️ Tools I use</h3>
